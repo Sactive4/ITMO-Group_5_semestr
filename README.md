@@ -5,8 +5,8 @@
 
 Учебные дисциплины:
 
-* **Э** 1. [Машинное обучение](Subjects/MachineLearning.md)
-* **Э** [Анализ и проектирование на UML](Subjects/UML.md)
+1. **Э** [Машинное обучение](Subjects/MachineLearning.md)
+2. **Э** [Анализ и проектирование на UML](Subjects/UML.md)
 * **Э** [Администрирование в ОС Linux](Subjects/LinuxAdministration.md)
 * **Э** [Прикладная математика](Subjects/AppliedMathematics.md)
 * **$** [История |>]()
